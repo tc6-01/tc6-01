@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
 
           # Options
-          user: wujunze
+          user: tc6-01
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
